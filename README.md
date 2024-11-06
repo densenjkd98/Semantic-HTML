@@ -2,9 +2,9 @@
 Latihan Praktikum 1 Semantic HTML
 
 
-Nama: Densen Jati Kusuma Dewata
-Nim: 2205101125
-Kelas: 5A
+- Nama: Densen Jati Kusuma Dewata
+- Nim: 2205101125
+- Kelas: 5A
 
 
 # HTML5 Semantic
